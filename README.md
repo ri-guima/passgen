@@ -1,10 +1,11 @@
 # Passgen
-Simple password generator
+
+Gerador de senha de terminal
 
 ## Uso
 
-Instale os requerimentos com `pip install -r requirements.txt`
+Instale os pacotes necessarios com `pip install -r requirements.txt`
 
-Execute `python passgen/cli.py`, a senha será copiada para área de trânsferencia
+Rode `python passgen/cli.py`, a senha será copiada
 
-Execute `python passgen/cli.py -h` para exibir a ajuda dos parâmetros
+Rode `python passgen/cli.py -h` para exibir a ajuda dos parâmetros
